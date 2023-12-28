@@ -1,6 +1,5 @@
 import { FiHeart } from "react-icons/fi";
 import { AiOutlineShoppingCart, AiOutlineUserAdd } from "react-icons/ai";
-/*Navber*/
 const Nav = ({ query, handleSearch }) => {
   return (
     <nav className="flex justify-around py-4 items-center border-b border-[#f3f3f3] w-[70%] mx-auto">
