@@ -3,7 +3,7 @@ import Nav from "./Navigation/Nav";
 import Product from "./Products/Products";
 import Recommended from "./Recommended/Recommended";
 import Sidebar from "./Sidebar/Sidebar";
-import database from "./Dataset/data";
+import database from "./Dataset/Data";
 import Card from "./components/Card";
 
 const App = () => {
